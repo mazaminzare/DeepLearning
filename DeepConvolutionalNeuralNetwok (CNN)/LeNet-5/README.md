@@ -4,4 +4,4 @@
 2. Sub-sampling layers (Pooling layers)
 3. Mini-batch learning
 ## Disadvantages:
-1. Has less power compare to AlexNet
+1. Less power than AlexNet
